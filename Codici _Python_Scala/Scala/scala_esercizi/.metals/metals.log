@@ -1,0 +1,22 @@
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi'
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi'
+INFO  time: initialize in 0.38s
+WARN  no build tool detected in workspace 'C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi\listExample.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi\linearExample.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi'
+INFO  time: initialize in 0.77s
+WARN  no build tool detected in workspace 'C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi\linearExample.scala
+INFO  no build target: using presentation compiler with only scala-library
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi'
+INFO  time: initialize in 0.32s
+WARN  no build tool detected in workspace 'C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+WARN  no build target for: C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi\linearExample.scala
+WARN  no build target for: C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi\concurExample.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target for: C:\Users\Bestengage\Desktop\academy big data\mauro liciani\scala_esercizi\listExample.scala
+INFO  shutting down Metals
